@@ -4,7 +4,7 @@ import tour3 from '../images/tour-3.jpeg'
 import tour4 from '../images/tour-4.jpeg'
 
 export const navLinks = [
-  { id: 1, url: '#home', text: 'Home1' },
+  { id: 1, url: '#home', text: 'Home' },
   { id: 2, url: '#about', text: 'About' },
   { id: 3, url: '#services', text: 'Services' },
   { id: 4, url: '#tours', text: 'Tours' },
